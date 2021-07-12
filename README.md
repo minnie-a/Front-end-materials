@@ -29,7 +29,6 @@ _Front end learning materials，hoping to help you，If you like you can star_
 |[SUI](http://sui.taobao.org/sui/docs/)|[ZUI](https://github.com/easysoft/zui)|
 |[淘宝HTML5前端框架](http://m.sui.taobao.org)|[KISSY - 阿里前端JavaScript库](http://docs.kissyui.com)|
 |[网易Nej - Nice Easy Javascript](http://nej.netease.com)|[Kendo UI MVVM Demo](http://demos.telerik.com/kendo-ui/mvvm/index)|
-|[Smart UI](http://smartui.chinamzz.com)|[雅虎UI - CSS UI](http://developer.yahoo.com/yui/grids)|
 
 ## CSS
 | Article | Article |
@@ -46,21 +45,6 @@ _Front end learning materials，hoping to help you，If you like you can star_
 | Article | Article |
 | --------- | --------- |
 [HTML5有哪些让你惊艳的demo](http://www.zhihu.com/question/24398907)|[Wallpaperbetter](http://www.wallpaperbetter.com/)|
-
-## React
-| React | Reference |
-| --------- | --------- |
-|[React教程 菜鸟教程](http://www.runoob.com/react/react-tutorial.html)|[React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu)|
-|[React开发中文手册-极客学院](http://wiki.jikexueyuan.com/project/react/)|[React教程-汇智网](http://www.hubwiz.com/course/552762019964049d1872fc88/)|
-|[React.js快速开始](http://www.phperz.com/article/15/0712/140537.html#)|[Reactjs 2016最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)|
-|[React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)|[汇智网 React教程](http://www.hubwiz.com/course/552762019964049d1872fc88/?ch=alloyteam)|
-|[轻松入门React和Webpack](https://segmentfault.com/a/1190000002767365)|[React中文索引](http://nav.react-china.org/#docs)|
-|[Redux 中文文档](http://cn.redux.js.org/)|[React Router官方文档中文翻译](https://github.com/react-guide/react-router-cn)|
-|[React入门教程](http://www.cnblogs.com/kunyashaw/p/5619256.html)|[React介绍及实践教程](http://www.ibm.com/developerworks/cn/web/1509_dongyue_react/index.html)|
-|[React.js 官方网址](https://facebook.github.io/react/index.html)|[React.js 官方文档](https://facebook.github.io/react/docs/getting-started.html)|
-|[React.js material UI](http://material-ui.com/#)|[React.js TouchstoneJS UI](http://touchstonejs.io)|
-|[React.js amazeui UI](http://amazeui.org/react)|[React 入门实例教程 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)|
-|[React Native 中文版](http://wiki.jikexueyuan.com/project/react-native)|[Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook)|
 
 ## Vue
 | Vue |AppDemo|Demo|
@@ -87,6 +71,20 @@ _Front end learning materials，hoping to help you，If you like you can star_
 | **Reference** | **Reference** | **Reference** |
 |[Vue官网](http://cn.vuejs.org)|[Vue论坛](http://forum.vuejs.org)|[Awesome-vue](https://github.com/vuejs/awesome-vue)|
 
+## React
+| React | Reference |
+| --------- | --------- |
+|[React教程 菜鸟教程](http://www.runoob.com/react/react-tutorial.html)|[React Router 使用教程](http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu)|
+|[React开发中文手册-极客学院](http://wiki.jikexueyuan.com/project/react/)|[React教程-汇智网](http://www.hubwiz.com/course/552762019964049d1872fc88/)|
+|[React.js快速开始](http://www.phperz.com/article/15/0712/140537.html#)|[Reactjs 2016最佳实践](http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/)|
+|[React 入门教程](https://hulufei.gitbooks.io/react-tutorial/content/introduction.html)|[汇智网 React教程](http://www.hubwiz.com/course/552762019964049d1872fc88/?ch=alloyteam)|
+|[轻松入门React和Webpack](https://segmentfault.com/a/1190000002767365)|[React中文索引](http://nav.react-china.org/#docs)|
+|[Redux 中文文档](http://cn.redux.js.org/)|[React Router官方文档中文翻译](https://github.com/react-guide/react-router-cn)|
+|[React入门教程](http://www.cnblogs.com/kunyashaw/p/5619256.html)|[React介绍及实践教程](http://www.ibm.com/developerworks/cn/web/1509_dongyue_react/index.html)|
+|[React.js 官方网址](https://facebook.github.io/react/index.html)|[React.js 官方文档](https://facebook.github.io/react/docs/getting-started.html)|
+|[React.js material UI](http://material-ui.com/#)|[React.js TouchstoneJS UI](http://touchstonejs.io)|
+|[React.js amazeui UI](http://amazeui.org/react)|[React 入门实例教程 - 阮一峰](http://www.ruanyifeng.com/blog/2015/03/react.html)|
+|[React Native 中文版](http://wiki.jikexueyuan.com/project/react-native)|[Webpack 和 React 小书 - gitbook](https://fakefish.github.io/react-webpack-cookbook)|
 
 ## Node
 | Node | Article |
